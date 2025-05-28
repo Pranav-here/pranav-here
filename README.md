@@ -36,21 +36,21 @@ Git, Agile Development, API Integration, Model Evaluation, Visualization, Deploy
 
 ### 🧠 Featured Projects
 
-#### 📍 [82 Below: Lead Contamination Risk Mapping](https://github.com/pranav-here/82-below)
+#### 📍 [82 Below: Lead Contamination Risk Mapping](https://github.com/Pranav-here/Lead-Service-Line-Mapping)
 > Animated maps + time-series bootstrapping to visualize lead risks in Chicago  
 > **Tech:** Python, GeoPandas, Bootstrapping, Choropleths
 
-#### 💼 [JobExtractX: Structured Info from Job Descriptions](https://github.com/pranav-here/jobextractx)
+#### 💼 [JobExtractX: Structured Info from Job Descriptions](https://github.com/alexlanxy/JobExtractX)
 > Transformer-based JSON extraction (titles, salaries, skills) from 11K+ scraped job postings  
 > **Tech:** FLAN-T5, Mistral-7B + LoRA, MongoDB, Streamlit
 
-#### 🩺 [MedicQuery: RAG-Based Medical Chatbot](https://github.com/pranav-here/medicquery)
+#### 🩺 [MedicQuery: RAG-Based Medical Chatbot](https://github.com/Pranav-here/Healthcare-Chatbot))
 > Sub-second medical Q&A over textbooks with source citation  
 > **Tech:** LangChain, Hugging Face, FAISS, Streamlit
 
-#### 🎬 [Movie Recommender System](https://github.com/pranav-here/movie-recommender)
-> Tag-based content filtering with poster previews  
-> **Tech:** Python, Pandas, Sklearn, Streamlit
+#### 🏏 [IPL Win Predictor](https://github.com/Pranav-here/IPL-Win-Probability)
+> Real-time match win prediction using live game stats  
+> **Tech:** Python, Logistic Regression, scikit-learn, Streamlit
 
 ---
 
