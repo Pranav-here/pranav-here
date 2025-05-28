@@ -36,7 +36,7 @@ Git, Agile Development, API Integration, Model Evaluation, Visualization, Deploy
 
 ### 🧠 Featured Projects
 
-#### 📍 [82 Below: Lead Contamination Risk Mapping](https://github.com/Pranav-here/Lead-Service-Line-Mapping)
+#### 📍 [82 Below: Lead Contamination Risk Mapping](https://github.com/Pranav-here/Chicago-Lead-Risk-Analysis)
 > Animated maps + time-series bootstrapping to visualize lead risks in Chicago  
 > **Tech:** Python, GeoPandas, Bootstrapping, Choropleths
 
