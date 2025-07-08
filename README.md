@@ -1,89 +1,61 @@
-<h1 align="center">Hi, I'm Pranav Kuchibhotla 👋</h1>
+
+## 👋 Hi, I'm Pranav Kuchibhotla
 
 <p align="center">
-  💻 AI & Data Science Enthusiast | 🎓 Undergrad @ Illinois Tech | 🌍 Building practical, impactful ML projects
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pranav-here/pranav-here/main/banner-dark.png" alt="Pranav Banner" style="max-width:100%;" />
+  💻 AI & Data Science @ Illinois Tech | 📊 Building end-to-end ML systems 
 </p>
 
 ---
 
 ### 🚀 About Me
-I'm a final-year Artificial Intelligence student at Illinois Institute of Technology (Chicago), driven by curiosity and a love for building. My work bridges machine learning, data science, geospatial modeling, and GenAI—everything from transformer models to public data dashboards.
 
-- 🔍 Current Focus: Agentic AI, Trustworthy ML, Generative Retrieval-Augmented Systems (RAGs)
-- 🌱 Learning: Power BI, Airtable automation, and AI agent workflows
-- 💡 Goal: Create accessible, explainable AI systems with real-world utility
+I'm a senior studying Artificial Intelligence at Illinois Institute of Technology. I work across the stack — building explainable ML pipelines, agentic AI tools, and data-driven apps with practical use cases. My projects span RAG chatbots, trust-scoring systems, streamlit apps, and real-time analytics.
 
----
-
-### 🛠️ Tech Stack
-**Languages & Tools:**  
-`Python`, `SQL`, `Java`, `Streamlit`, `MongoDB`, `MySQL`, `LangChain`, `HuggingFace`, `FAISS`, `Next.js`
-
-**ML & Data Science:**  
-Supervised + Unsupervised ML, Transformers (FLAN-T5, Mistral), RAG, LoRA, Time Series Forecasting, Federated Learning, Geospatial Analysis
-
-**Libraries:**  
-Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, PyTorch (basic), TensorFlow (basic)
-
-**Workflow:**  
-Git, Agile Development, API Integration, Model Evaluation, Visualization, Deployment (Streamlit / React)
+- 🔬 **Areas:** RAG, NLP, Agentic AI, ML Explainability
+- 🧠 **Stack:** Python, Streamlit, LangChain, HuggingFace, FAISS, FastAPI, SQL, MongoDB
+- 🔄 **Dev Tools:** Git, Docker, Power BI, Pydantic, CI/CD, .env Secrets
+- 🛠️ **Also used:** Java, Gradio, Phidata, LangGraph, Voice Tools (gTTS, ElevenLabs)
 
 ---
 
-### 🧠 Featured Projects
+### 💼 Projects (All Built & Deployed)
 
-#### 📍 [82 Below: Lead Contamination Risk Mapping](https://github.com/Pranav-here/Chicago-Lead-Risk-Analysis)
-> Animated maps + time-series bootstrapping to visualize lead risks in Chicago  
-> **Tech:** Python, GeoPandas, Bootstrapping, Choropleths
+- **82 Below** → [Geospatial lead risk analysis](https://github.com/Pranav-here/Chicago-Lead-Risk-Analysis)
+- **JobExtractX** → [Transformer-based job info extraction](https://github.com/alexlanxy/JobExtractX)
+- **MedicQuery & MedicQuery Pro** → PDF + Voice AI doctor bots (RAG + Whisper + Vision)
+- **AI Knowledge Auditor** → Real-time hallucination detector for AI model outputs
+- **Financial AI Agents** → Modular advisor system using Phidata and LLMs
+- **Laptop Price Predictor** → Streamlit regression app for spec-based pricing
+- **Chicago Restaurant Inspector** → ML + mapping for 293K food safety checks
 
-#### 💼 [JobExtractX: Structured Info from Job Descriptions](https://github.com/alexlanxy/JobExtractX)
-> Transformer-based JSON extraction (titles, salaries, skills) from 11K+ scraped job postings  
-> **Tech:** FLAN-T5, Mistral-7B + LoRA, MongoDB, Streamlit
+---
 
-#### 🩺 [MedicQuery: RAG-Based Medical Chatbot](https://github.com/Pranav-here/Healthcare-Chatbot))
-> Sub-second medical Q&A over textbooks with source citation  
-> **Tech:** LangChain, Hugging Face, FAISS, Streamlit
+### 🛠️ Stack & Skills
 
-#### 🏏 [IPL Win Predictor](https://github.com/Pranav-here/IPL-Win-Probability)
-> Real-time match win prediction using live game stats  
-> **Tech:** Python, Logistic Regression, scikit-learn, Streamlit
+**ML/NLP:** FLAN-T5, Mistral, Transformers, FAISS, PyTorch, Scikit-learn, RNNs, GARCH, Time Series  
+**Data & APIs:** Pandas, NumPy, MongoDB, MySQL, FastAPI, Tavily, TMDb, YFinance, DeepSeek  
+**Frameworks:** LangChain, Streamlit, LangGraph, Phidata, Gradio  
+**Tooling:** Power BI, Pydantic, Uvicorn, Docker, CI/CD, Git, .env, Plotly, GeoPandas  
+**Voice/Vision:** Whisper, ElevenLabs, gTTS, PyMuPDF, Image QA
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav-here&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-here&theme=tokyonight&hide_border=false" />
-</p>
-
-### 🌐 Top Tech Stacks
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/-LangChain-5D3FD3?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav-here&theme=tokyonight" />
 </p>
 
 ---
 
-### 📬 Let’s Connect!
+### 🌐 Links
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/pranavkuchibhotla/)
-- 🌐 [Portfolio](https://pranavkuchibhotla.com)
-- 🧠 Resume & Docs: [Request via DM](https://www.linkedin.com/in/pranavkuchibhotla/)
+- 🔗 [Portfolio](https://pranavkuchibhotla.com)
+- 💼 [LinkedIn](https://linkedin.com/in/pranavkuchibhotla)
+- 🧠 [GitHub](https://github.com/pranav-here)
+- 📄 Resume available via DM or site
 
 ---
 
-<p align="center">
-  <i>“Build with impact, explain with clarity, and always debug your assumptions.”</i>
-</p>
+<p align="center"><i>🤖 AI is the future, and that future is now.</i></p>
