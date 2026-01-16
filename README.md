@@ -23,7 +23,7 @@ AI + data builder at Illinois Tech (B.S. AI, Dec 2025). I ship end-to-end projec
   Repo: https://github.com/Pranav-here/agentic-ai-chatbot
 
 - **vArI DriftCast (Oceans Four)** — distributed volunteer compute for ocean plastic drift forecasts (Grainger Prize finalist/3rd place)  
-  Repo: https://github.com/LALITH0110/vArI-oceans-four
+  Repo: https://github.com/LALITH0110/vArI-oceans-four  
   Site: https://vari-plastic.vercel.app/
 
 ---
