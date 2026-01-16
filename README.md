@@ -1,61 +1,44 @@
+## 👋 Hi, I’m Pranav Kuchibhotla
 
-## 👋 Hi, I'm Pranav Kuchibhotla
+AI + data builder at Illinois Tech (B.S. AI, Dec 2025). I ship end-to-end projects: data → modeling/retrieval → evaluation → UI. I care a lot about trust, latency, and making AI tools usable outside a notebook.
 
-<p align="center">
-  💻 AI & Data Science @ Illinois Tech | 📊 Building end-to-end ML systems 
-</p>
-
----
-
-### 🚀 About Me
-
-I'm a senior studying Artificial Intelligence at Illinois Institute of Technology. I work across the stack — building explainable ML pipelines, agentic AI tools, and data-driven apps with practical use cases. My projects span RAG chatbots, trust-scoring systems, streamlit apps, and real-time analytics.
-
-- 🔬 **Areas:** RAG, NLP, Agentic AI, ML Explainability
-- 🧠 **Stack:** Python, Streamlit, LangChain, HuggingFace, FAISS, FastAPI, SQL, MongoDB
-- 🔄 **Dev Tools:** Git, Docker, Power BI, Pydantic, CI/CD, .env Secrets
-- 🛠️ **Also used:** Java, Gradio, Phidata, LangGraph, Voice Tools (gTTS, ElevenLabs)
+**Focus:** RAG systems, agent workflows, evaluation/trust scoring, geospatial + time-series analytics  
+**Core stack:** Python, Streamlit, FastAPI, LangChain/LangGraph, FAISS, SQL/MongoDB, Docker
 
 ---
 
-### 💼 Projects (All Built & Deployed)
+## ⭐ Featured work
 
-- **82 Below** → [Geospatial lead risk analysis](https://github.com/Pranav-here/Chicago-Lead-Risk-Analysis)
-- **JobExtractX** → [Transformer-based job info extraction](https://github.com/alexlanxy/JobExtractX)
-- **MedicQuery & MedicQuery Pro** → PDF + Voice AI doctor bots (RAG + Whisper + Vision)
-- **AI Knowledge Auditor** → Real-time hallucination detector for AI model outputs
-- **Financial AI Agents** → Modular advisor system using Phidata and LLMs
-- **Laptop Price Predictor** → Streamlit regression app for spec-based pricing
-- **Chicago Restaurant Inspector** → ML + mapping for 293K food safety checks
+- **LLM Auditor Pro** — trust-scored LLM answers against PDFs/web sources (batch mode + analytics)  
+  Repo: https://github.com/Pranav-here/LLM-Auditor-Pro
 
----
+- **82 Below (Chicago Lead Risk Analysis)** — geospatial + statistical analysis to surface seasonal and equity-linked risk patterns  
+  Repo: https://github.com/Pranav-here/Chicago-Lead-Risk-Analysis
 
-### 🛠️ Stack & Skills
+- **AI/CS Entry-Level & Internship Finder (TechCareers)** — job search workspace + ATS tools  
+  Site: https://techcareers.vercel.app/  
+  Repo: https://github.com/Pranav-here/AI-CS-Internship-and-New-Grad-Jobs
 
-**ML/NLP:** FLAN-T5, Mistral, Transformers, FAISS, PyTorch, Scikit-learn, RNNs, GARCH, Time Series  
-**Data & APIs:** Pandas, NumPy, MongoDB, MySQL, FastAPI, Tavily, TMDb, YFinance, DeepSeek  
-**Frameworks:** LangChain, Streamlit, LangGraph, Phidata, Gradio  
-**Tooling:** Power BI, Pydantic, Uvicorn, Docker, CI/CD, Git, .env, Plotly, GeoPandas  
-**Voice/Vision:** Whisper, ElevenLabs, gTTS, PyMuPDF, Image QA
+- **Agentic AI Chatbot Framework** — modular LangGraph + FastAPI + Streamlit setup for multi-provider LLM workflows  
+  Repo: https://github.com/Pranav-here/agentic-ai-chatbot
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-here&theme=tokyonight&hide_border=false" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranav-here&theme=tokyonight" />
-</p>
+- **vArI DriftCast (Oceans Four)** — distributed volunteer compute for ocean plastic drift forecasts (Grainger Prize finalist/3rd place)  
+  Repo: https://github.com/LALITH0110/vArI-oceans-four
+  Site: https://vari-plastic.vercel.app/
 
 ---
 
-### 🌐 Links
+## 🧰 Skills (things I actually use)
 
-- 🔗 [Portfolio](https://pranavkuchibhotla.com)
-- 💼 [LinkedIn](https://linkedin.com/in/pranavkuchibhotla)
-- 🧠 [GitHub](https://github.com/pranav-here)
-- 📄 Resume available via DM or site
+**AI/ML:** RAG, embeddings, reranking, structured extraction, evaluation/guardrails, time series  
+**Tools:** LangChain, LangGraph, FAISS, HuggingFace, PyTorch, scikit-learn  
+**Backend/Data:** FastAPI, SQL, MongoDB  
+**Product:** Streamlit, Next.js, Docker, Git
 
 ---
 
-<p align="center"><i>🤖 AI is the future, and that future is now.</i></p>
+## 🌐 Links
+
+- Portfolio: https://pranavkuchibhotla.com  
+- LinkedIn: https://linkedin.com/in/pranavkuchibhotla  
+
